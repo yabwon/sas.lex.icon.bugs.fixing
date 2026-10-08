@@ -3,11 +3,11 @@
 
 ---
 
-- {grey:*"If an article or a program does not contains any errors... it was not written by a human being... "s" (un)intended..."*}
+- *"If an article or a program does not contains any errors... it was not written by a human being... "s" (un)intended..."*
 
 ---
 
-- {grey:*"Ugly action beats unfinished perfection."*}
+- *"Ugly action beats unfinished perfection."*
 
 ---
 
@@ -25,10 +25,10 @@ reads directly, so a correctly formatted message can make the support team's wor
 easier. Be kind and respectful of our time and work.
 
 Reports should be sent to the following email address: `placeholder@address.com`
-{grey:(official email will be provided soon, if you are a SAS community member,
-ask around whom to write to before the official email shows up)}.
+(official email will be provided soon, if you are a SAS community member,
+ask around whom to write to before the official email shows up).
 
-*The second (preferred) way of contact is through* [SAS LEX.ICON GitHub repository]().
+*The second (preferred) way of contact is through* [**SAS LEX.ICON GitHub repository**](https://github.com/yabwon/sas.lex.icon).
 
 The repository is dedicated for bugs hunting reports. You will fin there a copy 
 of this instruction, but additionally templates for different types of bugs reporting.
@@ -104,7 +104,7 @@ Artemis U. Mouse
 List the authors in the order they appear on the PDF byline. Corporate authors
 are written as `Corporation Name (a company)`.
 
-GitHub template is [here]().
+GitHub template is [here](https://github.com/yabwon/sas.lex.icon/blob/main/authors_fixes.txt).
 
 ## 4. Correcting a title
 
@@ -133,7 +133,7 @@ Regex Roulette: Every Number Guessed, None Correct
 
 Lines starting with `#` are comments and are ignored.
 
-GitHub template is [here]().
+GitHub template is [here](https://github.com/yabwon/sas.lex.icon/blob/main/titles_fixes.txt).
 
 ## 5. Adding or replacing an abstract
 
@@ -163,7 +163,7 @@ verbatim. The abstract has to be collapsed into a single paragraph; line
 breaks in your message are ignored. If the paper is a presentation, keep the
 exact leading `Presentation: ` wording.
 
-GitHub template is [here]().
+GitHub template is [here](https://github.com/yabwon/sas.lex.icon/blob/main/abstracts_fixes.txt).
 
 ## 6. Companion links
 
@@ -188,7 +188,7 @@ Lines starting with `#` are comments and are ignored.
   `github`, and so on.
 - The URL is added as a labeled link under the paper's Extras entry.
 
-GitHub template is [here]().
+GitHub template is [here](https://github.com/yabwon/sas.lex.icon/blob/main/companions_links.txt).
 
 ---
 
