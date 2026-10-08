@@ -1,0 +1,31 @@
+#
+# This is a template file for titles 
+# fixing report. The instruction is below.
+#
+# Your changes proposition should start at line 7.
+#
+
+
+
+#####################################################
+## No text below this line will be used for fixes. ##
+#####################################################
+
+This is the formatting instruction:
+
+- write the multi-line form
+- the paper's path goes on the first line
+- title goes on the second line
+- a blank line ends the list
+
+Like this:
+
+SAMPLE/2020/zeus-duck-2020.pdf
+Recursion Recurring: A Stack Overflow Beyond the Call of Duty
+
+SAMPLE/2020/poseidon-coyote-2020.pdf
+The Null Hypothesis: Why Your Data Went Missing at the Worst Possible Time
+
+
+#####################################################
+

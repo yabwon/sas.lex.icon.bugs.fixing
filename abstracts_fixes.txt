@@ -1,0 +1,38 @@
+#
+# This is a template file for abstract 
+# fixing report. The instruction is below.
+#
+# Your changes proposition should start at line 7.
+#
+
+
+
+#####################################################
+## No text below this line will be used for fixes. ##
+#####################################################
+
+This is the formatting instruction:
+
+- write the multi-line form
+- the paper's path goes on the first line
+- abstract goes on the subsequent lines
+- a blank line ends the abstract
+- all text should be a single "paragraph", 
+  no blank lines can be part of abstract text.
+
+Like this:
+
+SAMPLE/2020/athena-bunny-2020.pdf
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat.
+
+SAMPLE/2020/apollo-beagle-2020.pdf
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+#####################################################
+

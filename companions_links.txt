@@ -1,0 +1,34 @@
+#
+# This is a template file for adding links 
+# to companions. The instruction is below.
+#
+# Your changes proposition should start at line 7.
+#
+
+
+
+#####################################################
+## No text below this line will be used for fixes. ##
+#####################################################
+
+This is the formatting instruction:
+
+- link report it as a three-line group
+- the paper's path goes on the first line
+- the type label goes on line two
+- the URL on line three
+- a blank line ends the report
+
+Like this:
+
+SAMPLE/2020/hermes-cat-2020.pdf
+video
+https://example.com/watch/xyz
+
+SAMPLE/2020/hermes-cat-2020.pdf
+github
+https://github.com/repo/
+
+
+#####################################################
+

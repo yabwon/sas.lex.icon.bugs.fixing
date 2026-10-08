@@ -1,0 +1,41 @@
+#
+# This is a template file for authors 
+# fixing report. The instruction is below.
+#
+# Your changes proposition should start at line 7.
+#
+
+
+
+#####################################################
+## No text below this line will be used for fixes. ##
+#####################################################
+
+This is the formatting instruction:
+
+- write the multi-line form
+- the paper's path goes on the first line
+- add "authors are:" after the paper's path
+- one(!) author per line 
+- a blank line ends the list
+
+Like this:
+
+SAMPLE/2020/zeus-duck-2020.pdf authors are:
+Zeus Q. Duck
+Apollo Y. Beagle
+Poseidon Z. Coyote
+
+SAMPLE/2020/hermes-cat-2020.pdf authors are:
+Hermes T. Cat
+Athena R. Bunny
+
+
+A single author needs no special treatment, 
+just one name on its own line:
+
+SAMPLE/2020/artemis-mouse-2020.pdf authors are:
+Artemis U. Mouse
+
+#####################################################
+
