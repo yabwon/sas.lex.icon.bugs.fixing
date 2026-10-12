@@ -24,7 +24,7 @@ and in both cases follow the format below. They are the same format the archive 
 reads directly, so a correctly formatted message can make the support team's work 
 easier. Be kind and respectful of our time and work.
 
-Reports should be sent to the following email address: `placeholder@address.com`
+Reports should be sent to the following email address: `sas.lex.icon.bugs.fixing@gmail.com`
 (official email will be provided soon, if you are a SAS community member,
 ask around whom to write to before the official email shows up).
 
