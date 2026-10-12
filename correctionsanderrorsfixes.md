@@ -25,8 +25,6 @@ reads directly, so a correctly formatted message can make the support team's wor
 easier. Be kind and respectful of our time and work.
 
 Reports should be sent to the following email address: `sas.lex.icon.bugs.fixing@gmail.com`
-(official email will be provided soon, if you are a SAS community member,
-ask around whom to write to before the official email shows up).
 
 *The second (preferred) way of contact is through* [**SAS LEX.ICON GitHub repository**](https://github.com/yabwon/sas.lex.icon.bugs.fixing).
 
